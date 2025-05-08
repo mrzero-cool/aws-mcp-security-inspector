@@ -1,0 +1,10 @@
+
+# AWS
+boto3==1.29.3
+aioboto3==12.0.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# MCP Framework
+mcp-server==0.1.0  # Required for FastMCP 
