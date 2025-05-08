@@ -1,6 +1,6 @@
-# Project Name
+# AWS MCP Security Inspector
 
-Brief description of your project.
+AWS Security MCP is a Model Context Protocol server that provides a MCP Client like Claude to interact to AWS security services, allowing AI assistants to autonomously inspect and analyze your AWS infrastructure for security issues.
 
 ## Setup
 
@@ -26,7 +26,6 @@ pip install -r requirements.txt
 cp .env-sample .env
 ```
 Edit the `.env` file with your configuration values.
-
 
 
 ## License
